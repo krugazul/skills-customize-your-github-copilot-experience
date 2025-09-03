@@ -73,7 +73,7 @@
           "type": "python"
         }
       ]
-    }
+    },
     {
       "id": "fastapi-rest-api",
       "title": "Building REST APIs with FastAPI",
