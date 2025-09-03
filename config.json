@@ -58,6 +58,35 @@
           "type": "csv"
         }
       ]
+    },
+    ,
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build RESTful APIs using the FastAPI framework in Python. Practice designing endpoints, handling requests, and working with data models.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-09-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build RESTful APIs using the FastAPI framework in Python. Practice designing endpoints, handling requests, and returning JSON responses.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-09-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
